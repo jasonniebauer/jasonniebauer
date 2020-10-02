@@ -1,7 +1,7 @@
 # Jason Niebauer
 Full stack developer and occasional devops guy.
 
-<hr>
+
 
 ## GitHub Stats
 
