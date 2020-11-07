@@ -10,6 +10,6 @@ Full stack developer and occasional devops guy.
 
 <hr>
 
-### Sites
+### :star: Popular Sites
 
 - [Python strftime](https://www.pythonstrftime.com/)
