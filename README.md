@@ -1,5 +1,5 @@
 # Jason Niebauer
-Full stack developer and occasional devops guy.
+Project Manager & Business Analyst
 
 <hr>
 
