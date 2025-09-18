@@ -1,5 +1,5 @@
 # Jason Niebauer
-Project Manager & Business Analyst
+Data Analyst & Engineer
 
 <hr>
 
