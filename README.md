@@ -18,6 +18,6 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - [DOGE Insights](https://www.doge-insights.com/)
 - [BasketHogs](https://www.baskethogs.com/)
 - [CryptoTab](https://cryptotab.app/)
-- [BitcoinSimple API](https://bitcoinsimple.info)
+- [BitcoinSimple](https://bitcoinsimple.info)
 - [Grokipedia API](https://grokipedia-api.com/)
 - [DotClock](https://dotclock.app)
