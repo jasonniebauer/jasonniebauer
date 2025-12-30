@@ -3,7 +3,7 @@
 I build and ship production-grade systems that turn raw data into actionable business impact with full ownership from concept to deployment.
 <details>
   <summary>Read more about me</summary>
-  As a versatile, self-taught engineer, I combine full-stack development, API design, data pipelines, and analytics engineering to create scalable, interconnected solutions in fast-paced environments. I thrive where rapid integrations, evolving tech stacks, and data-driven decisions are the norm to deliver reliable systems with minimal oversight.
+  As a versatile, self-taught engineer, I combine full-stack development, API design, data pipelines, and analytics engineering to create scalable, interconnected solutions in fast-paced environments. I thrive where rapid integrations, evolving tech stacks, and data-driven decisions are the norm to deliver reliable systems with minimal oversight.<br/><br/>
 
   My projects span real-time dashboards, interactive analytics platforms, and transparency tools that all feature robust data ingestion, transformation, and intuitive UIs that enable faster insights and better decisions.
 
