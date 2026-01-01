@@ -14,6 +14,9 @@ I build and ship production-grade systems that turn raw data into actionable bus
   Read more about my projects → [jasonniebauer.com](https://jasonniebauer.com)
 </details>
 
+#### 📝 Latest Blog Post
+- [The Blueprint for Machine Learning Success](https://blog.jasonniebauer.com/blueprint-for-machine-learning-success)
+
 #### Featured Projects
 - [DOGE Insights](https://www.doge-insights.com/)
 - [BasketHogs](https://www.baskethogs.com/)
