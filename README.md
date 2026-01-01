@@ -14,10 +14,12 @@ I build and ship production-grade systems that turn raw data into actionable bus
   Read more about my projects → [jasonniebauer.com](https://jasonniebauer.com)
 </details>
 
-#### 📝 Latest Blog Post
+#### 📝 Latest Blog Series: [Machine Learning for Business](https://blog.jasonniebauer.com/series/machine-learning-for-business)
 - [The Blueprint for Machine Learning Success](https://blog.jasonniebauer.com/blueprint-for-machine-learning-success)
+- [Unlocking Business Insight with Machine Learning](https://blog.jasonniebauer.com/unlocking-business-insight-with-machine-learning)
+- [The Modern Data Team: A Leader's Blueprint](https://blog.jasonniebauer.com/the-modern-data-team-a-leaders-blueprint)
 
-#### Featured Projects
+#### 📂 Featured Projects
 - [DOGE Insights](https://www.doge-insights.com/)
 - [BasketHogs](https://www.baskethogs.com/)
 - [CryptoTab](https://cryptotab.app/)
