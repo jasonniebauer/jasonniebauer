@@ -19,7 +19,7 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - [Unlocking Business Insight with Machine Learning](https://blog.jasonniebauer.com/unlocking-business-insight-with-machine-learning)
 - [The Modern Data Team: A Leader's Blueprint](https://blog.jasonniebauer.com/modern-data-team-a-leaders-blueprint)
 
-#### Currently Working On
+#### 🚀 Currently Working On
 - **[City of Memphis Employee Insights](https://city-of-memphis-employee-insights.streamlit.app/)** - Interactive analysis of employee salaries for the City of Memphis, Tennessee
 
 #### 📂 Featured Projects
