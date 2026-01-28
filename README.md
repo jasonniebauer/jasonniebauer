@@ -26,3 +26,7 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - [BitcoinSimple](https://bitcoinsimple.info)
 - [Grokipedia API](https://grokipedia-api.com/)
 - [DotClock](https://dotclock.app)
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/jasonniebauer)
