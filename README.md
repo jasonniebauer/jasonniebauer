@@ -20,7 +20,7 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - [The Modern Data Team: A Leader's Blueprint](https://blog.jasonniebauer.com/modern-data-team-a-leaders-blueprint)
 
 #### 🚀 Current Projects
-- **[Memphis Employee Insights](https://memphis-employee-insights.streamlit.app/)** - Interactive analysis of employee salaries for the City of Memphis, Tennessee
+- **[Memphis Employee Insights](https://memphis-employee-insights.streamlit.app/)** - Interactive analysis of employee salaries for the city of Memphis, Tennessee
 
 #### 📂 Featured Projects
 - **[DOGE Insights](https://www.doge-insights.com)** - Analytics for government transparency of contract, grant, lease cancellations, and regulatory savings
