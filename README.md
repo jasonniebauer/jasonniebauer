@@ -19,13 +19,16 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - [Unlocking Business Insight with Machine Learning](https://blog.jasonniebauer.com/unlocking-business-insight-with-machine-learning)
 - [The Modern Data Team: A Leader's Blueprint](https://blog.jasonniebauer.com/modern-data-team-a-leaders-blueprint)
 
+#### Currently Working On
+- **[City of Memphis Employee Insights](https://city-of-memphis-employee-insights.streamlit.app/)** - Interactive analysis of employee salaries for the City of Memphis, Tennessee
+
 #### 📂 Featured Projects
-- [DOGE Insights](https://www.doge-insights.com/)
-- [BasketHogs](https://www.baskethogs.com/)
-- [CryptoTab](https://cryptotab.app/)
-- [BitcoinSimple](https://bitcoinsimple.info)
-- [Grokipedia API](https://grokipedia-api.com/)
-- [DotClock](https://dotclock.app)
+- **[DOGE Insights](https://www.doge-insights.com)** - Analytics for government transparency of contract, grant, lease cancellations, and regulatory savings
+- **[BasketHogs](https://www.baskethogs.com)** - Analytics hub tracking Arkansas Razorbacks men's basketball performance
+- **[CryptoTab](https://cryptotab.app)** - Real-time cryptocurrency price tracker app for top 26 coins in USD/EUR/GBP
+- **[BitcoinSimple](https://bitcoinsimple.info)** - Swiss Army knife API for Bitcoin data
+- **[Grokipedia API](https://grokipedia-api.com)** - Unofficial API for xAI's Grokipedia
+- **[DotClock](https://dotclock.app)** - Minimal clock, maximal dots
 
 ## GitHub Activity
 
