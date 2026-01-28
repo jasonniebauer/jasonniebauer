@@ -14,11 +14,6 @@ I build and ship production-grade systems that turn raw data into actionable bus
   Read more about my projects → [jasonniebauer.com](https://jasonniebauer.com)
 </details>
 
-#### 📝 Latest Blog Series: [Machine Learning for Business](https://blog.jasonniebauer.com/series/machine-learning-for-business)
-- [The Blueprint for Machine Learning Success](https://blog.jasonniebauer.com/blueprint-for-machine-learning-success)
-- [Unlocking Business Insight with Machine Learning](https://blog.jasonniebauer.com/unlocking-business-insight-with-machine-learning)
-- [The Modern Data Team: A Leader's Blueprint](https://blog.jasonniebauer.com/modern-data-team-a-leaders-blueprint)
-
 #### 🚀 Current Projects
 - **[Memphis Employee Insights](https://memphis-employee-insights.streamlit.app/)** - Interactive analysis of employee salaries for the city of Memphis, Tennessee
 
@@ -29,6 +24,11 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - **[BitcoinSimple](https://bitcoinsimple.info)** - Swiss Army knife API for Bitcoin data
 - **[Grokipedia API](https://grokipedia-api.com)** - Unofficial API for xAI's Grokipedia
 - **[DotClock](https://dotclock.app)** - Minimal clock, maximal dots
+
+#### 📝 Latest Blog Series: [Machine Learning for Business](https://blog.jasonniebauer.com/series/machine-learning-for-business)
+- [The Blueprint for Machine Learning Success](https://blog.jasonniebauer.com/blueprint-for-machine-learning-success)
+- [Unlocking Business Insight with Machine Learning](https://blog.jasonniebauer.com/unlocking-business-insight-with-machine-learning)
+- [The Modern Data Team: A Leader's Blueprint](https://blog.jasonniebauer.com/modern-data-team-a-leaders-blueprint)
 
 ## GitHub Activity
 
