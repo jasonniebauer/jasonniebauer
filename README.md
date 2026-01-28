@@ -23,7 +23,7 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - **[Memphis Employee Insights](https://memphis-employee-insights.streamlit.app/)** - Interactive analysis of employee salaries for the city of Memphis, Tennessee
 
 #### 📂 Featured Projects
-- **[DOGE Insights](https://www.doge-insights.com)** - Analytics for government transparency of contract, grant, lease cancellations, and regulatory savings
+- **[DOGE Insights](https://www.doge-insights.com)** - Analytics on government contract, grant, lease cancellations, and regulatory savings
 - **[BasketHogs](https://www.baskethogs.com)** - Analytics hub tracking Arkansas Razorbacks men's basketball performance
 - **[CryptoTab](https://cryptotab.app)** - Real-time cryptocurrency price tracker app for top 26 coins in USD/EUR/GBP
 - **[BitcoinSimple](https://bitcoinsimple.info)** - Swiss Army knife API for Bitcoin data
