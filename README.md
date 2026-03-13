@@ -21,8 +21,8 @@ I build and ship production-grade systems that turn raw data into actionable bus
 - **[DOGE Insights](https://www.doge-insights.com)** - Analytics on government contract, grant, lease cancellations, and regulatory savings
 - **[BasketHogs](https://www.baskethogs.com)** - Analytics hub tracking Arkansas Razorbacks men's basketball performance
 - **[CryptoTab](https://cryptotab.app)** - Real-time cryptocurrency price tracker app for top 26 coins in USD/EUR/GBP
-- **[Grokipedia API]([https://grokipedia-api.com](https://github.com/jasonniebauer/grokipedia-api))** - Unofficial API for xAI's Grokipedia
-- **[BitcoinSimple]([https://bitcoinsimple.info](https://github.com/jasonniebauer/bitcoinsimple))** - Swiss Army knife API for Bitcoin data
+- **[Grokipedia API](https://github.com/jasonniebauer/grokipedia-api)** - Unofficial API for xAI's Grokipedia
+- **[BitcoinSimple](https://github.com/jasonniebauer/bitcoinsimple)** - Swiss Army knife API for Bitcoin data
 - **[DotClock](https://dotclock.app)** - Minimal clock, maximal dots
 
 #### 📝 Latest Blog Series: [Machine Learning for Business](https://blog.jasonniebauer.com/series/machine-learning-for-business)
