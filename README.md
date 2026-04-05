@@ -15,9 +15,10 @@ I build and ship production-grade systems that turn raw data into actionable bus
 </details>
 
 #### 🚀 Current Projects
-- **[Memphis Employee Insights](https://memphis-employee-insights.streamlit.app/)** - Interactive analysis of employee salaries for the city of Memphis, Tennessee
+- **Nuclear Energy Analysis** - I'm currently pulling data and finalizing a project plan
 
 #### 📂 Featured Projects
+- **[Memphis Employee Insights](https://memphisinsights.com)** - Interactive analysis of employee salaries for the city of Memphis, Tennessee
 - **[DOGE Insights](https://www.doge-insights.com)** - Analytics on government contract, grant, lease cancellations, and regulatory savings
 - **[BasketHogs](https://www.baskethogs.com)** - Analytics hub tracking Arkansas Razorbacks men's basketball performance
 - **[CryptoTab](https://cryptotab.app)** - Real-time cryptocurrency price tracker app for top 26 coins in USD/EUR/GBP
